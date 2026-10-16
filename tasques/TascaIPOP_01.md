@@ -33,3 +33,9 @@ Fer grau superior asix o dam
 ## Dissenya el teu full de ruta visual
 
 [Aqui esta la infografia](https://drive.google.com/file/d/1s7SV_JiQWOXrkvUA0UpXDrWcVLLU5EHS/view?usp=drive_link)
+
+---
+
+## Reflexió final
+
+Considero que l’objectiu tecnic és el més important, ja que dominar les xarxes per línia de comandes resol la meva principal àrea de millora i em dona una base sòlida, essencial tant per acabar SMX com per al futur cicle de DAM o ASIX. La primera acció concreta que faré serà instal·lar un simulador gratuït, com Cisco Packet Tracer, al meu ordinador abans d’aquest divendres per començar a practicar.
